@@ -17,7 +17,7 @@
     'currency': 'USD',
     'license': 'OPL-1',
     'images': [
-        'static/description/icon.png',
+         "static/description/icon.png",
         "static/description/banner.gif",
     ],
     'depends': [
